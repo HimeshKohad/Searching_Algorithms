@@ -3,3 +3,11 @@
 <p> Please give this repo a ⭐ if these algorithms help you in any way (means a lot). </p>
 <p> Share this repo with your friends </p>
 <p> Thanks for the support 😄 </p>
+
+<hr>
+
+_You can access the algorithms and their implementations below:_
+
+| Name | File |
+|------|------|
+|Linear Search|https://github.com/HimeshKohad/Searching_Algorithms/blob/main/Algorithms/LinearSearch.md|
