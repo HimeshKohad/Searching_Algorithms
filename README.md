@@ -11,3 +11,4 @@ _You can access the algorithms and their implementations below:_
 | Sr. No. | Name | File |
 |------|------|------|
 |1.|Linear Search|[🔗 Link : Linear Search](https://github.com/HimeshKohad/Searching_Algorithms/blob/main/Algorithms/LinearSearch.md)|
+|2.|Binary Search|[🔗 Link : Binary Search](https://github.com/HimeshKohad/Searching_Algorithms/blob/main/Algorithms/BinarySearch.md)|
