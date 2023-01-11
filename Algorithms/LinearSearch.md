@@ -157,6 +157,58 @@ int main() {
 
 <hr>
 
+***Implementation in Java***
+
+```java
+
+class LinearSearch {
+	static int search(int arr[], int n, int target)
+	{
+		for (int i = 0; i < n; i++) {
+			if (arr[i] == target)
+				return i;
+		}
+
+		return -1;
+	}
+
+	public static void main(String[] args)
+	{
+		int[] arr = { 3, 4, 1, 7, 5 };
+		int n = arr.length;
+		
+		int target = 4;
+
+		int index = search(arr, n, target);
+		if (index == -1)
+			System.out.println("Element is not present in the array");
+		else
+			System.out.println("Element found at position " + index);
+	}
+}
+
+
+```
+
+<hr>
+
+***Implementation in Python***
+
+```python
+
+def search(arr, x):
+ 
+    for i in range(len(arr)):
+ 
+        if arr[i] == x:
+            return i
+ 
+    return -1
+
+```
+
+<hr>
+
 ***Applications of Linear Search:***
 - Linear search can be applied to both single-dimensional and multi-dimensional arrays.
 - Linear search is easy to implement and effective when the array contains only a few elements. 
