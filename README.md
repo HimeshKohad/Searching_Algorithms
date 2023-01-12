@@ -14,3 +14,4 @@ _You can access the algorithms and their implementations below:_
 |2.|Binary Search|[🔗 Link : Binary Search](https://github.com/HimeshKohad/Searching_Algorithms/blob/main/Algorithms/BinarySearch.md)|
 |3.|Ternary Search|[🔗 Link : Ternary Search](https://github.com/HimeshKohad/Searching_Algorithms/blob/main/Algorithms/TernarySearch.md)|
 |4.|Jump Search|[🔗 Link : Jump Search](https://github.com/HimeshKohad/Searching_Algorithms/blob/main/Algorithms/JumpSearch.md)|
+|5.|Interpolation Search|[🔗 Link : Interpolation Search](https://github.com/HimeshKohad/Searching_Algorithms/blob/main/Algorithms/InterpolationSearch.md)|
