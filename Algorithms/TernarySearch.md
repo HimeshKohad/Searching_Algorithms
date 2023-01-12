@@ -1,4 +1,4 @@
-***Ternary Search***
+### ***Ternary Search***
 
 <hr>
 
